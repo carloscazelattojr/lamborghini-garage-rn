@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Bat Password Generator</h1>
+  <h1 align="center">Lamborghini Garage App</h1>
 </div>
 <p align="center">
-      Aplicativo para gerar senhas aleatórias no tema Batman
+      Aplicativo para listar Lamborghinis a partir de uma API externa. (fins estudos)
     <br />
  </p>
 
@@ -10,8 +10,7 @@
 
 <div align="center">
   <a href="#">
-      <img src="https://github.com/carloscazelattojr/DIO/blob/main/formacao-react-native-devepoler/bat-pass-app/assets/print2.jpeg" width="200" alt="preview" />
-      <img src="https://github.com/carloscazelattojr/DIO/blob/main/formacao-react-native-devepoler/bat-pass-app/assets/print1.jpeg" width="200" alt="preview" />
+      <img src="https://github.com/carloscazelattojr/DIO/blob/main/lamborghini-garage-rn/assets/print1.jpeg" width="200" alt="preview" />
   </a>
 </div>
 
