@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="#">
-      <img src="https://github.com/carloscazelattojr/DIO/blob/main/lamborghini-garage-rn/assets/print1.jpeg" width="200" alt="preview" />
+      <img src="https://github.com/carloscazelattojr/lamborghini-garage-rn/blob/main/assets/print1.png" width="200" alt="preview" />
   </a>
 </div>
 
